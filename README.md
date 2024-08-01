@@ -4,9 +4,9 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/4550)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/4743)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
-## 如何搜索 
+## 如何搜索
 
 周刊已经沉淀了大量内容，可以使用下面的几种方法进行搜索。
 
@@ -26,6 +26,20 @@ $ grep -nri [搜索词] docs | cat --number
 $ grep -nri css docs | cat --number
 ```
 ## 2024
+
+**七月**
+
+- 第 310 期：[内容农场的 AI 赚钱术](docs/issue-310.md)
+- 第 309 期：[无人驾驶出租车的双面刃](docs/issue-309.md)
+- 第 308 期：[工作找不到，博士能读吗？](docs/issue-308.md)
+- 第 307 期：[不要看重 Product Hunt](docs/issue-307.md)
+
+**六月**
+
+- 第 306 期：[信息就像糖一样上瘾](docs/issue-306.md)
+- 第 305 期：[随机数，这是一个问题](docs/issue-305.md)
+- 第 304 期：[最受欢迎的颜色](docs/issue-304.md)
+- 第 303 期：[技术封建主义](docs/issue-303.md)
 
 **五月**
 
