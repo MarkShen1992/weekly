@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/4743)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/5610)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -26,6 +26,40 @@ $ grep -nri [搜索词] docs | cat --number
 $ grep -nri css docs | cat --number
 ```
 ## 2024
+
+**十二月**
+
+- 第 329 期：[示意图利器 D2](docs/issue-329.md)
+- 第 328 期：[AI 模型不是一门好生意](docs/issue-328.md)
+
+**十一月**
+
+- 第 327 期：[没有链接的互联网](docs/issue-327.md)
+- 第 326 期：[世界没有那么多财富](docs/issue-326.md)
+- 第 325 期：[VS Code 编辑器的下一站是 Zed？](docs/issue-325.md)
+- 第 324 期：[人类已知的最大质数](docs/issue-324.md)
+- 第 323 期：[技术公司的口号比拼](docs/issue-323.md)
+
+**十月**
+
+- 第 322 期：[内容行业的内幕](docs/issue-322.md)
+- 第 321 期：[傅盛回忆录](docs/issue-321.md)
+- 第 320 期：[乒乓仓](docs/issue-320.md)
+
+**九月**
+
+- 第 319 期：[如何拍出爆款视频](docs/issue-319.md)
+- 第 318 期：[创业咖啡馆的记忆](docs/issue-318.md)
+- 第 317 期：[驴子，老虎和狮子的寓言](docs/issue-317.md)
+- 第 316 期：[你一生的故事](docs/issue-316.md)
+
+**八月**
+
+- 第 315 期：[一份谷歌离职报告](docs/issue-315.md)
+- 第 314 期：[《黑神话：悟空》可以产业化吗？](docs/issue-314.md)
+- 第 313 期：[如果新加坡没有空调](docs/issue-313.md)
+- 第 312 期：[从英特尔看“美国制造”](docs/issue-312.md)
+- 第 311 期：[低利率与长期项目](docs/issue-311.md)
 
 **七月**
 
