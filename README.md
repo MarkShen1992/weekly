@@ -25,10 +25,19 @@ $ grep -nri [搜索词] docs | cat --number
 ```bash
 $ grep -nri css docs | cat --number
 ```
+
+## 2025
+
+**一月**
+
+- 第 333 期：[一切都要支付两次](docs/issue-333.md)
+- 第 332 期：[西蒙·威利森的年终总结，梁文锋的访谈](docs/issue-332.md)
+
 ## 2024
 
 **十二月**
 
+- 第 331 期：[你可能是一个 NPC](docs/issue-331.md)
 - 第 330 期：[李开复梳理人工智能](docs/issue-330.md)
 - 第 329 期：[示意图利器 D2](docs/issue-329.md)
 - 第 328 期：[AI 模型不是一门好生意](docs/issue-328.md)
