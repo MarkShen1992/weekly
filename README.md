@@ -4,7 +4,7 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
 
-> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/5610)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+> P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/6012)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ## 如何搜索
 
@@ -28,8 +28,14 @@ $ grep -nri css docs | cat --number
 
 ## 2025
 
+**二月**
+
+- 第 336 期：[面对 AI，互联网正在衰落](docs/issue-336.md)
+
 **一月**
 
+- 第 335 期：[年底的未来已来](docs/issue-335.md)
+- 第 334 期：[年终笔记四则](docs/issue-334.md)
 - 第 333 期：[一切都要支付两次](docs/issue-333.md)
 - 第 332 期：[西蒙·威利森的年终总结，梁文锋的访谈](docs/issue-332.md)
 
